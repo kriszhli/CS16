@@ -1,2 +1,0 @@
-# CS16
-HW for CS16 S20
